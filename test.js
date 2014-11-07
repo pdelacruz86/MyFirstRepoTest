@@ -8,6 +8,12 @@ function Bye (argument) {
 	alert("Adios")
 }
 
+function golpear(argument)
+{
+	
+	alert(argument)
+}
+
 void setup{
 
 
