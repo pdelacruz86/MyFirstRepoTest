@@ -10,7 +10,10 @@ function Bye (argument) {
 
 function golpear(argument)
 {
+
 	//comment 1
+	//comment2
+
 	alert(argument)
 }
 
